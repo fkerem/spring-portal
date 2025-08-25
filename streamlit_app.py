@@ -77,6 +77,14 @@ html(f"""
       --bg-color: {header_bg_color};
     }}
 
+    iframe[data-testid="stIFrame"] {{
+      display: none !important;
+      height: 0 !important;
+      width: 0 !important;
+      opacity: 0 !important;
+      pointer-events: none !important;
+    }}
+
 
     /* ─── TOOLBAR FIX ────────────────────────────────────────────── */
     /* Disable toolbar interference with sidebar */
