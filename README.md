@@ -2,6 +2,12 @@
 
 The SPRING Portal is an interactive learning environment for students, teachers, and public visitors to explore agriculture through plant science, classroom experiments, and sensor data. Developed through the IoT4Ag initiative, it connects hands-on growing activities with observations from classroom corn pots, research farms, and a weather station.
 
+## Impact and recognition
+
+- **2026 ASABE Educational Aids Blue Ribbon — Website Publications.** The American Society of Agricultural and Biological Engineers awarded IoT4Ag AgBridge 2025 Team 1 the Blue Ribbon on July 13, 2026, recognizing the SPRING Portal's interactive IoT farm data dashboard and classroom-ready teaching toolkit. [About the award](https://asabe.org/awards-competitions/educational-aids-blue-ribbon-awards).
+- **Accepted abstract at ASABE AIM 2026.** *SPRING Portal: A Multi-Site IoT Data Platform for Classroom-Ready Agricultural Education* was accepted for oral presentation at the ASABE Annual International Meeting in Indianapolis, July 12–15, 2026 (presentation ID **2601433**). See the [official technical schedule, page 4](https://asabe.org/portals/0/events/2026%20aim/26aim%20technical%20session%20schedule.pdf?ver=JUrog6DzwjeEh0RlUnTzQA%3D%3D#page=4).
+- **Purdue educational outreach.** [Purdue Agriculture featured the portal](https://ag.purdue.edu/news/2025/10/agbridge-2025.html) as part of AgBridge 2025, highlighting its role in helping educators teach graph reading and data visualization with agricultural sensor data. Team 1's teaching materials are also listed among Purdue's [digital agriculture resources for pre-college audiences](https://ag.purdue.edu/idaas/pre-college-audiences.html).
+
 ## Find your way
 
 Open the portal using the address provided by your instructor or host. Start at **Home** for an overview video, then use **Select User Role** in the sidebar to choose the tools you need. The portal opens in the Student view by default.
